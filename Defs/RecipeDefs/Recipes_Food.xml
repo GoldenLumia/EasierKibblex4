@@ -6,7 +6,7 @@
     <label>make kibble x4</label>
     <description>Make animal kibble by combining raw meat and plants.</description>
     <jobString>Making kibble.</jobString>
-    <workAmount>890</workAmount>
+    <workAmount>1800</workAmount>
     <workSpeedStat>CookSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_CookMeal</soundWorking>
